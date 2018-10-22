@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>ico_messenger</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Main" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.3">
+        <g id="Web" transform="translate(-926.000000, -5566.000000)" fill="#FFFFFF">
+            <g id="Footer" transform="translate(0.000000, 5386.000000)">
+                <g id="socials" transform="translate(894.000000, 180.000000)">
+                    <path d="M39,0 C35.1336667,0 32,2.9015 32,6.482 C32,8.52133333 33.0173333,10.3401667 34.6086667,11.529 L34.6086667,14 L36.9921667,12.6921667 C37.628,12.8683333 38.3023333,12.9628333 39,12.9628333 C42.8663333,12.9628333 46,10.0613333 46,6.482 C46,2.9015 42.8663333,1.03620816e-15 39,0 Z M39.6953333,8.72783333 L37.9126667,6.82733333 L34.4348333,8.72783333 L38.2603333,4.66666667 L40.0873333,6.56833333 L43.522,4.66666667 L39.6953333,8.72783333 Z" id="ico_messenger"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
